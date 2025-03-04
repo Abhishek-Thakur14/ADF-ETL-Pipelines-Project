@@ -1,0 +1,9 @@
+{
+	"name": "adf-course-wow",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "08ac4069-b3ce-402c-8160-834440c3adef",
+		"tenantId": "05ac296b-2e61-48e0-bb0c-735bc62b323f"
+	}
+}
